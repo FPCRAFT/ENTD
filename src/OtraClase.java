@@ -10,4 +10,10 @@
  */
 public class OtraClase {
     
+    public static void main(String[] args){
+        alsjhfdaldsf
+                +asdfñasdkfm
+                asñfdjsañldfm
+    } 
+    
 }
