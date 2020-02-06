@@ -1,12 +1,14 @@
 /**
  *
- * @author Jose Antonio Duarte Perez
+ * @author Jose
  */
 public class Primos {
-
+    
+    private static boolean primo;
+    
     public static boolean esPrimo(int numero) {
         int contador = 2;
-        boolean primo = true;
+        primo = true;
 
         while ((primo) && (contador != numero)) {
             if (numero % contador == 0) {
