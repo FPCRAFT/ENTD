@@ -19,4 +19,6 @@ public class Primos {
         
         return primo;
     }
+    
+    //Está muy bien :)
 }
