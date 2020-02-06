@@ -1,6 +1,6 @@
 /**
  *
- * @author Jose
+ * @author Maria Dolores Adamuz Barranco
  */
 public class Primos {
     
