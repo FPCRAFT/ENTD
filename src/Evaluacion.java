@@ -8,6 +8,7 @@ public class Evaluacion {
         System.out.println("Si tu nombre está aquí tienes un punto adicional");
         
         System.out.println("Isabel :)");
+        System.out.println("UN NOMBRE");
         System.out.println("Jose Antonio Duarte Perez");
         System.out.println("Ivan :)");
         System.out.println("José Carlos");
@@ -15,6 +16,7 @@ public class Evaluacion {
         
         System.out.println("Manuéh (=ↀωↀ=) ");
         
+        System.out.println("Alejandro Molina");
         System.out.println("Rafael Escudero Ortega");
         System.out.println("Juan Carlos Martín López");
         System.out.println("Raul");
@@ -22,6 +24,7 @@ public class Evaluacion {
         System.out.println("Maria Dolores");
         System.out.println("Cristian ñ-ñ");
         System.out.println("ALEX HAAKE");
+        System.out.println("Iñaki");
         
         
     }
