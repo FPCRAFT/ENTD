@@ -14,6 +14,11 @@ public class Evaluacion {
         
         System.out.println("Si tu nombre está aquí tienes un punto adicional");
         System.out.println("Juan Carlos Martín López");
+        System.out.println("Isabel :)");
+        System.out.println("Jose Antonio Duarte Perez");
+        
+        
+        
     }
     
 }
