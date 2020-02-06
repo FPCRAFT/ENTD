@@ -8,8 +8,12 @@ public class Evaluacion {
         System.out.println("Jose Antonio Duarte Perez");
         System.out.println("Ivan :)");
         System.out.println("José Carlos");
+
         System.out.println("Irene ;) ");
         
+
+        System.out.println("Manuéh");
+
         System.out.println("Rafael Escudero Ortega");
         System.out.println("Juan Carlos Martín López");
         
