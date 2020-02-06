@@ -9,8 +9,9 @@ public class Evaluacion {
         System.out.println("Ivan :)");
         System.out.println("José Carlos");
         System.out.println("Manuéh");
+
         System.out.println("Rafael Escudero Ortega");
-        System.out.println("Juan Carlos Martín López");
+        System.out.println("Juan Carlos uwu");
         System.out.println("Maria Dolores");
         System.out.println("Cristian ñ-ñ");
         
