@@ -1,22 +1,20 @@
 /**
  *
- * @author Jose
+ * @author Maria Dolores Adamuz Barranco
  */
 public class Primos {
-    
-    private static boolean primo;
-    
+
     public static boolean esPrimo(int numero) {
         int contador = 2;
-        primo = true;
+        boolean primos = true;
 
-        while ((primo) && (contador != numero)) {
+        while ((primos) && (contador != numero)) {
             if (numero % contador == 0) {
-                primo = false;
+                primos = false;
             }
             contador++;
         }
         
-        return primo;
+        return primos;
     }
 }
