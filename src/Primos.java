@@ -1,10 +1,22 @@
 /**
  *
- * @author Jose Antonio Duarte Perez
+ * @author Jose
  */
 public class Primos {
     
-    public static boolean isPrimo(int numero){
-        return (numero%2 == 1);
+    private static boolean primo;
+    
+    public static boolean esPrimo(int numero) {
+        int contador = 2;
+        primo = true;
+
+        while ((primo) && (contador != numero)) {
+            if (numero % contador == 0) {
+                primo = false;
+            }
+            contador++;
+        }
+        
+        return primo;
     }
 }
