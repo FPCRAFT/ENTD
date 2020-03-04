@@ -11,6 +11,7 @@ package com.mycompany.aplicacion2;
  */
 public class NewClass {
     public static void main(String[] args) {
-        System.out.println("asdklasld");
+        System.out.println("asdklasld222");
+        System.out.println("apmndalsnd");
     }
 }
