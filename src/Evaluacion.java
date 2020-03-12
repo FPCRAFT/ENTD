@@ -26,6 +26,7 @@ public class Evaluacion {
         System.out.println("ALEX HAAKE");
         System.out.println("Iñaki");
         System.out.println("Miguel Angel");
+        System.out.println("Sergio MR");
         
     }
     
